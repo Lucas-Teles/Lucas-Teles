@@ -1,7 +1,7 @@
 ## Olá, eu sou o Lucas Teles 👋
 
-- 🔭 Hoje trabalho como Técnico em atendimento.
-- 🌱 Estou estudando html, css e javascript.
+- 🔭 Hoje trabalho como Técnico hardware e software
+- 🌱 Estou estudando html, css, js e python
 - 😄 pronouns: ele/dele.
 
 <div align="center">
