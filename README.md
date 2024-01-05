@@ -1,26 +1,49 @@
-## Olá, eu sou o Lucas Teles 👋
-
-- 🔭 Hoje trabalho como Técnico hardware e software
-- 🌱 Estou estudando html, css, js e python
-- 😄 pronouns: ele/dele.
-
+<!-- Título -->
+<div style="text-align: center;">
+  <h1 align="center">👋🏿 Olá, eu sou Lucas!</h1>
+  <hr>
+</div>
+<!-- Apresentação -->
+<p align="left">
+  <samp>
+    👨🏿‍💻 Desenvolvedor apaixonado por tecnologia e inovação<br>
+    🐍 Estudando Python 🐍<br>
+    🔭 Em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente<br>
+    🎨 Aprendendo a criar soluções criativas e eficientes para problemas complexos<br>
+    📚 Sempre aprendendo e explorando novas tecnologias e conceitos<br>
+  </samp>
+</p>
+<br>
+<br>
+<!-- GitHub Stats -->
 <div align="center">
-  <a href="https://github.com/Lucas-Teles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Teles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Teles&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Teles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Teles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://github.com/Lucas-Teles/Lucas-Teles/assets/102314163/ba08a05c-ff3e-4807-b42d-09f767b652ef">
+<br>
+<!-- Habilidades -->
+<h3 align="center" style="font-size: 24px; color: #3498db;">🔥 Habilidades 🔥</h3>
+
+<hr>
+
+<!-- Linguagens de Programação -->
+<h4 align="left">👨🏿‍💻 Linguagens de Programação 👨🏿‍💻</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-  
-  ##
-  
-<div>
-    <a href = "mailto:lucasouzateles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/lucas-teles-tech/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>    
+
+<!-- Ferramentas e Frameworks -->
+<h4 align="left">🛠 Ferramentas e Frameworks 🛠</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+</div>
