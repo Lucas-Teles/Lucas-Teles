@@ -7,7 +7,6 @@
 <p align="left">
   <samp>
     👨🏿‍💻 Desenvolvedor apaixonado por tecnologia e inovação<br>
-    🐍 Estudando Python 🐍<br>
     🔭 Em busca de oportunidades para aplicar meus conhecimentos e crescer profissionalmente<br>
     🎨 Aprendendo a criar soluções criativas e eficientes para problemas complexos<br>
     📚 Sempre aprendendo e explorando novas tecnologias e conceitos<br>
