@@ -1,17 +1,16 @@
 <!-- Título -->
 <div style="text-align: center;">
-  <h1 align="center">👋🏿 Olá, eu sou o Lucas!</h1>
+  <h1 align="center">👋🏿 Olá, bem vindo !</h1>
   <hr>
 </div>
 
 <!-- Apresentação -->
 <p align="left">
   <samp>
-    👨🏿‍💻 Sou apaixonado por tecnologia e inovação. Acredito que a inovação pode transformar o mundo ao nosso redor.<br>
-    🔭 Estou sempre em busca de novos desafios que me permitam crescer profissionalmente e aplicar meus conhecimentos para fazer a diferença.<br>
-    🎨 Meu foco está em criar soluções práticas e eficientes, seja para sistemas complexos ou para simplificar tarefas do dia a dia.<br>
+    👨🏿‍💻 Sou desenvolvedor back-end Java/Kotlin, e atualmente trabalho como técnico em hardware e software.<br>
+    🎨 Sempre procurando aprender e desenvolver minha criatividade para solucionar problemas.<br>
     🚀 Atualmente, estou me aprofundando em backend com Java, Spring Boot, Kotlin e PostgreSQL, sempre com a ideia de aprender mais e melhorar a cada dia.<br>
-    🌱 Nos meus momentos livres, gosto de assistir animes, ler livros, ouvir música jogos online e de tabuleiro.<br>
+    🌱 Nos meus momentos livres, gosto de assistir animes, ler livros, ouvir música, jogos online e de tabuleiro.<br>
   </samp>
 </p>
 <br>
@@ -25,7 +24,7 @@
 <br>
 
 <!-- Habilidades -->
-<h3 align="center" style="font-size: 24px; color: #3498db;">🔥 O que eu sei fazer 🔥</h3>
+<h3 align="center" style="font-size: 24px; color: #3498db;">🔥 Skills 🔥</h3>
 
 <hr>
 
