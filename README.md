@@ -29,7 +29,7 @@
 <hr>
 
 <!-- Linguagens -->
-<h4 align="left">👨🏿‍💻 Linguagens de Programação 👨🏿‍💻</h4>
+<h4 align="left">👨🏿‍💻 Stacks 👨🏿‍💻</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="15" />
